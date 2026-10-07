@@ -208,7 +208,7 @@ Websites:
 
 
 ### Acknowledgements
-The tutorial is part of [EKWA2026](https://iswc2026.semanticweb.org/), Bari, 26 October 2026
+The tutorial is part of [ISWC 2026](https://iswc2026.semanticweb.org/), Bari, 26 October 2026
 
 This tutorial is organised with the support of the [ERC HE project HyperModeLex](https://site.unibo.it/hypermodelex/en), GA N.101055185, PI prof.ssa Monica Palmirani, University of Bologna.
 
