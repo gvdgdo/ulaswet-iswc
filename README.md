@@ -204,7 +204,17 @@ Websites:
 <https://orcid.org/0000-0002-8557-8084>
 
 
-### Generoro Longo
+### Generoso Longo
+
+Generoso Longo is a PhD student in the doctoral programme in Law,
+Science and Technology at the University of Bologna. His research
+interests lie at the intersection of Neuro-Symbolic AI, the Semantic
+Web, and Agentic AI, with a particular focus on their application to the
+legal domain. He is particularly interested in exploring how these
+emerging technologies can enhance AI systems' understanding and
+processing of legal information. Central to his work is the use of Akoma
+Ntoso XML-structured documents as a foundational element, facilitating
+the machine processing and interpretation of key legal information.
 
 
 ### Acknowledgements
