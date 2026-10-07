@@ -1,7 +1,7 @@
 <img src="logo-completo-full.png" alt="Alt text" width="500">
 
 # Unlocking Legal Automation with Semantic Web Technology
-## [ISWC 2026]((https://iswc2026.semanticweb.org/), Bari, October 25, 2026
+## [ISWC 2026]((https://iswc2026.semanticweb.org/), Bari, October 26, 2026
 
 ## Guido Governatori (Central Queensland Univesity), Monica Palmirani (University of Bologna) and Generoso Longo (University of Bologna)
 
@@ -208,7 +208,7 @@ Websites:
 
 
 ### Acknowledgements
-The tutorial is part of [EKWA2026](https://iswc2026.semanticweb.org/), Bari, 25 October 2026
+The tutorial is part of [EKWA2026](https://iswc2026.semanticweb.org/), Bari, 26 October 2026
 
 This tutorial is organised with the support of the [ERC HE project HyperModeLex](https://site.unibo.it/hypermodelex/en), GA N.101055185, PI prof.ssa Monica Palmirani, University of Bologna.
 
